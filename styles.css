@@ -1,5 +1,5 @@
 body{
-   
+
     font-size: 15px;
     margin: 0px;
     padding: 0px;
@@ -78,7 +78,7 @@ section{
 }
 .sec{
     margin: 0px 10%;
-     
+
 }
 .left{
     float: left;
@@ -151,7 +151,7 @@ section{
     width: 100%;
     float: left;
     margin-left: 55px;
-    
+
 }
 
 .resto{
@@ -188,9 +188,9 @@ section {
 section.about-me .sec,
 section.parcours .sec {
   border-top: 1px solid #747B85;
-  padding-top: 20px;
-  
+  padding-top: 20px; 
 }
+
 
 section.parcours,
 section.competences {
@@ -206,12 +206,6 @@ section.parcours{
   margin-top: 0px; 
   border-top: 5px solid #359FD4;
   padding-top: 20px;
-}
-
-
-.photo {
-  width: 140px; 
-  height: auto; 
 }
 
 
